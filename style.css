@@ -1,0 +1,33 @@
+body {
+  width: 50%
+  margin:30px;
+  border: 30px;
+  padding: 30px}
+
+  body {background-color:#f7d1cd}
+
+h1 {color: #735d78}
+h1 {text-align: center;}
+h3 {color: #735d78}
+h3 {text-align: center;}
+p {color: #735d78}
+p {text-align: center;}
+
+h1 {
+  font-size: 35px;
+  line-height:1em;
+  margin-bottom: 20px;
+  font-family: garamond;
+  colour: #372549
+  text-align: center;
+border-style: solid none none none;
+
+}
+p {
+  font-size: 20px;
+  line-height:1.2em;
+  margin-bottom: 20px;
+  font-family: garamond;
+  colour: #774C60
+  text-align: center;
+}
